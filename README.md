@@ -1,6 +1,6 @@
-###HOLA MI NOMBRE ES RAMIRO ANDINO 👋
+HOLA MI NOMBRE ES RAMIRO ANDINO 👋
 
-##¿QUIÉN SOY? Soy un programador Web full stack y estudiante en la carrera de Informatica de la Universidad Nacional de la Plata.
+¿QUIÉN SOY? Soy un programador Web full stack y estudiante en la carrera de Informatica de la Universidad Nacional de la Plata.
 
 ¿QUE HAGO? Actualmete estoy en proceso de comenzar el proyecto grupal en soy henry y otros proyectos personales que aun estoy por decidir cual camino seguir
 
