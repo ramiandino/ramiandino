@@ -1,4 +1,4 @@
-### Hola mi nombre es Ramiro Andino 👋
+### HOLA MI NOMBRE ES RAMIRO ANDINO 👋
 
 ## ¿QUIÉN SOY? 
 
