@@ -2,17 +2,17 @@
 
 ## ¿QUIÉN SOY? 
 
-Soy un programador Web full stack y estudiante en la carrera de Informatica de la Universidad Nacional de la Plata.
+Soy un programador Web Full Stack Developer y me encuentro estudiando la carrera Licenciatura en Informatica en la Universidad Nacional de la Plata.
 
 ## ¿QUE HAGO? 
 
-Actualmete estoy en proceso de comenzar el proyecto grupal en soy henry y otros proyectos personales que aun estoy por decidir cual camino seguir
+Hoy me encuentro en el tramo final del curso de programacion Full Stack Developer en Soy Henry y empezando a pensar y proyectar a futuro algunos proyectos.
 
 ## ¿OBJETIVO? 
 
-Mi objetivo es es desarrollar mejoras y soluciones a problemas reales dentro del mundo IT ademas de crecer y conocer mas a fondo este mundo que aun muchas cosas siguen siendo un misterio para mi
+Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reales de la vida cotidiana de una empresa dentro del mundo IT, desarrollar ideas innovadoras y además crecer y conocer en mayor detalle este gigante mundo que cada día crece más y se vuelve cada más y más indispensable.
 
-Tecnologías el Bootcamp soy henry me a brindado de conocimientos en tecnologias para el desarrollo full stack y ellas son
+Tecnologías en las que el Bootcamp de Soy Henry me ha brindado conocimientos en tecnologias para el desarrollo Full Stack:
 
 •Javascript
 
@@ -28,7 +28,7 @@ Tecnologías el Bootcamp soy henry me a brindado de conocimientos en tecnologias
 
 •Git
 
-entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar
+entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
 Por esta seccion me pueden contactar 📲🤝
-## Mail: rami.andino32gmail.com
+## Mail: rami.andino32@gmail.com
