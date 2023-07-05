@@ -1,18 +1,18 @@
-### Hola! Mi nombre es Ramiro Andino
+**Hola! Mi nombre es Ramiro Andino**
 
-## ¿Quién soy? 
+**¿Quién soy?** 
 
 Soy un programador Full Stack y me encuentro estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de la Plata.
 
-## ¿Qué hago? 
+**¿Qué hago?** 
 
 Actualmente me dedico a realizar proyectos que me permiten avanzar y aprender mas sobre el mundo de la programacion y a la carrera en la cual estoy estudiando.
 
-## ¿Objetivo? 
+**¿Objetivo?** 
 
 Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reales de la vida cotidiana, crear ideas innovadoras y además crecer y conocer en mayor detalle este gigante mundo que cada día crece más y se vuelve cada vez más indispensable.
 
-## ¿ Que tecnologias uso?
+**¿ Que tecnologias uso?**
 
 El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sobre las siguientes tecnologias:
 
