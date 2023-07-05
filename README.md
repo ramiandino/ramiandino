@@ -18,7 +18,7 @@ El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sob
 
 **• Javascript**
 
-**• React.js** https://reactjs.org/
+**• React.js**
 
 **• Node.js**
 
