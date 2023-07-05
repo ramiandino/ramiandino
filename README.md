@@ -16,7 +16,7 @@ Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reale
 
 El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sobre las siguientes tecnologias:
 
-•Javascript
+##•Javascript
 
 •React.js
 
