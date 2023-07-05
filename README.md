@@ -4,11 +4,11 @@
 
 Soy un programador Full Stack y me encuentro estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de la Plata.
 
-## ¿QUE HAGO? 
+## ¿Qué hago? 
 
 Actualmente me dedico a realizar proyectos que me permiten avanzar y aprender mas sobre el mundo de la programacion y a la carrera en la cual estoy estudiando.
 
-## ¿OBJETIVO? 
+## ¿Objetivo? 
 
 Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reales de la vida cotidiana, crear ideas innovadoras y además crecer y conocer en mayor detalle este gigante mundo que cada día crece más y se vuelve cada vez más indispensable.
 
@@ -16,23 +16,23 @@ Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reale
 
 El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sobre las siguientes tecnologias:
 
-###•Javascript
+## •Javascript
 
-•React.js
+## •React.js
 
-•Node.js
+## •Node.js
 
-•Express
+## •Express
 
-•PostgresSQL
+## •PostgresSQL
 
-•Sequelize
+## •Sequelize
 
-•Git
+## •Git
 
 Incluyendo HTML Y CSS.
 
 entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
 No dudes en contactarme!
-## Correo: rami.andino32@gmail.com
+Correo: rami.andino32@gmail.com
