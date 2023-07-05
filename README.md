@@ -16,21 +16,21 @@ Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reale
 
 El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sobre las siguientes tecnologias:
 
-• Javascript
+##### • Javascript
 
-• React.js
+##### • React.js
 
-• Node.js
+##### • Node.js
 
-• Express
+##### • Express
  
-• PostgresSQL
+##### • PostgresSQL
 
-• Sequelize
+##### • Sequelize
 
-• Git
+##### • Git
 
-Incluyendo HTML Y CSS.
+Incluyendo ##### HTML Y ##### CSS.
 
 Entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
