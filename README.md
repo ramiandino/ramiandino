@@ -36,4 +36,5 @@ entre otras tencnologias y herramientas para una mejor organizacion y manejo de 
 
 No dudes en contactarme!
 [LinkedIn](https://www.linkedin.com/in/ramiro-andino-74455a1b9/)
+
 Correo: rami.andino32@gmail.com
