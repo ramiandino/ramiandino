@@ -31,7 +31,6 @@ El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sob
 **• GIT**
 
 Incluyendo **HTML** Y **CSS**.
-bootstrap css3 express git html5 javascript nodejs postgresql postman react reactnative redux webpack
 
 Entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
