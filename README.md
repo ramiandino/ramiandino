@@ -35,5 +35,5 @@ Incluyendo HTML Y CSS.
 entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
 No dudes en contactarme!
-[LinkedIn](https://www.linkedin.com/in/ramiro-andino-74455a1b9/)https://www.linkedin.com/in/ramiro-andino-74455a1b9/
+[LinkedIn](https://www.linkedin.com/in/ramiro-andino-74455a1b9/)
 Correo: rami.andino32@gmail.com
