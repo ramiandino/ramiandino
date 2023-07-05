@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Soy un programador Full Stack y me encuentro estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de la Plata.
+Soy un programador Full Stack y futuro Licenciado en Sistemas.
 
 ## ¿Qué hago?
 
