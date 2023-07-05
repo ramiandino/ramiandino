@@ -22,15 +22,15 @@ El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sob
 
 ##### • Node.js
 
-##### • Express
+##### • Express.js
  
-##### • PostgresSQL
+##### • PostgreSQL
 
 ##### • Sequelize
 
-##### • Git
+##### • GIT
 
-Incluyendo ##### HTML Y ##### CSS.
+Incluyendo #HTML# Y #CSS#.
 
 Entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
