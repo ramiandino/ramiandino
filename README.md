@@ -1,18 +1,20 @@
-### HOLA MI NOMBRE ES RAMIRO ANDINO 👋
+### Hola! Mi nombre es Ramiro Andino
 
-## ¿QUIÉN SOY? 
+## ¿Quién soy? 
 
-Soy un programador Web Full Stack Developer y me encuentro estudiando la carrera Licenciatura en Informatica en la Universidad Nacional de la Plata.
+Soy un programador Full Stack y me encuentro estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de la Plata.
 
 ## ¿QUE HAGO? 
 
-Hoy me encuentro en el tramo final del curso de programacion Full Stack Developer en Soy Henry y empezando a pensar y proyectar a futuro algunos proyectos.
+Actualmente me dedico a realizar proyectos que me permiten avanzar y aprender mas sobre el mundo de la programacion y a la carrera en la cual estoy estudiando.
 
 ## ¿OBJETIVO? 
 
-Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reales de la vida cotidiana de una empresa dentro del mundo IT, desarrollar ideas innovadoras y además crecer y conocer en mayor detalle este gigante mundo que cada día crece más y se vuelve cada más y más indispensable.
+Mi objetivo principalmente es desarrollar mejoras y soluciones a problemas reales de la vida cotidiana, crear ideas innovadoras y además crecer y conocer en mayor detalle este gigante mundo que cada día crece más y se vuelve cada vez más indispensable.
 
-Tecnologías en las que el Bootcamp de Soy Henry me ha brindado conocimientos en tecnologias para el desarrollo Full Stack:
+## ¿ Que tecnologias uso?
+
+El Bootcamp de SoyHenry me ha permitido adquidir conocimientos y experiencia sobre las siguientes tecnologias:
 
 •Javascript
 
@@ -28,7 +30,9 @@ Tecnologías en las que el Bootcamp de Soy Henry me ha brindado conocimientos en
 
 •Git
 
+Incluyendo HTML Y CSS.
+
 entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar.
 
-Por esta seccion me pueden contactar 📲🤝
-## Mail: rami.andino32@gmail.com
+No dudes en contactarme!
+## Correo: rami.andino32@gmail.com
